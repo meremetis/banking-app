@@ -13,15 +13,12 @@
 
 body {
   position: relative;
-  width: 100vw; /* Adjust as needed */
-  height: 100vh; /* Adjust as needed */
   color: var(--white);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   background-image: url("./assets/image.png");
   background-size: cover;
   background-repeat:repeat-y;
-  overflow: hidden;
 }
 
 .wrapper {
