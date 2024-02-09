@@ -14,3 +14,5 @@ Explore the beauty of responsive design with our showcase app! Immerse yourself 
 3. Experience the art of responsive design and explore the elegance of HTML/CSS.
 
 Transform your projects with a touch of sophistication! Download or clone the repository now and witness the magic of a beautifully responsive UI. 🎨📲
+
+ 
